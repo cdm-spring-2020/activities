@@ -10,7 +10,7 @@
 
 1. Navigate to your repository and click "create new file"
 2. In the "name your file" box, type "index.html"
-3. In the "edit new file" field below the title, paste the following base markup with your "about me" paragraph
+3. In the "edit new file" field below the title, paste the following base markup. (We'll fill in the "about me" paragraph in our next class.)
 
 ```html
   <!DOCTYPE html>
