@@ -4,7 +4,7 @@ We have talked about numerous design elements that indicate points of emphasis. 
 
 Rhetoric and narrative theory have similar ways of thinking about emphasis. Fiction employs a range of strategies to create a feeling of access to a narrative's storyworld, as well as various characters' inner consciousness or mental state. Methods like word choice, repetition, and playing on the "sound  properties" of spoken language are just some of the tools in a writer's toolbox to create these effects.
 
-In class today, we will experiment with emphasis by altering vintage advertisements. I've collected  a Box.com folder of advertisements for you to download and use for this assignment (click 'Link to content' below). Your goal is to play with the visual and rhetorical elements of an advertisement, using Adobe Photoshop, to transform the advertisement in a meaningful way. 
+In class today, we will experiment with emphasis by altering vintage advertisements. I've collected  a [Box.com folder of advertisements for you to download and use for this assignment](https://pitt.box.com/s/b2iat58koypf8rlwg42gh7cjq1eh0te9). Your goal is to play with the visual and rhetorical elements of an advertisement, using Adobe Photoshop, to transform the advertisement in a meaningful way. 
 
 How should you change the advertisement? First, choose one the following modes:
 
