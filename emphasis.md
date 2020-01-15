@@ -1,3 +1,5 @@
+# Using Adobe Photoshop to Emphasize
+
 We have talked about numerous design elements that indicate points of emphasis. Spatial patterns like the Gutenberg Diagram and the golden grid tell where someone's eye is most likely to be drawn. Cognitive techniques like framing and priming take advantage of the mind works to emphasize some aspect of how an idea or call to action will be interpreted. Highlighting techniques (boldness, typeface, color, and inversion) can also be used to emphasize specific page elements. Icons make certain ideas or piece of information easier to process and more memorable.
 
 Rhetoric and narrative theory have similar ways of thinking about emphasis. Fiction employs a range of strategies to create a feeling of access to a narrative's storyworld, as well as various characters' inner consciousness or mental state. Methods like word choice, repetition, and playing on the "sound  properties" of spoken language are just some of the tools in a writer's toolbox to create these effects.
