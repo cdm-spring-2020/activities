@@ -8,4 +8,12 @@ Expectatations can be met or played with but, as the Arola et. al. tell us (by e
 
 2. Are there good reasons to break with this genre convention?
 
-In class, we will break into teams of 3-4 students and continue our experiments with Photoshop. Following the advice of Arola et. al., we'll play with genre by association and representation. Your team will receive a piece of paper with two genres on it and a digital image of a movie poster belonging to one of those two genres. You will work together to edit the poster into the second genre. Divide up the work however you choose, but make sure everyone has a role. Upload your work to your Box.com folder when you are finished (one upload per team is fine, but name the file so that everyone's last name is included).
+In class, we will break into teams of 3-4 students and continue our experiments with Photoshop. We'll play with genre by association and representation. 
+
+- First, your team will receive a piece of paper with a genre on it. 
+
+- Second, you will choose a movie in that genre and locate high resolution image of a movie poster for that movie.
+
+- Lastly, you will receive a secon piece of paper with a second genre on it. 
+
+Members of each team will work together to edit the poster into the second genre. Divide up the work however you choose, but make sure everyone has a role. Upload your work to your Box.com folder when you are finished (one upload per team is fine, but name the file so that everyone's last name is included).
