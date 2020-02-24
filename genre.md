@@ -16,4 +16,6 @@ In class, we will break into teams of 3-4 students and continue our experiments 
 
 - Lastly, you will receive a secon piece of paper with a second genre on it. 
 
-Members of each team will work together to edit the poster into the second genre. Divide up the work however you choose, but make sure everyone has a role. Upload your work to your Box.com folder when you are finished (one upload per team is fine, but name the file so that everyone's last name is included).
+Members of each team will work together to edit the poster or recreate it, so that it appears to belong to the second genre you've been assigned. Use tonal elemnts like color, shadow, font, aignment, etc. to convey the new genre. 
+
+Divide up the work however you choose, but make sure everyone has a role. Upload your work to your Box.com folder when you are finished (one upload per team is fine, but name the file so that everyone's last name is included).
