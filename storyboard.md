@@ -14,3 +14,5 @@ Photoshop is the preferred software for this assignment. You may switch to any s
 4.	What are closure and the Law of Pragnanz, and how has understanding of these principles been used in design? (Lidwell)
 5. What are the rule of thirds, the Gutenberg diagram, and the Golden Ratio, and why are these concepts helpful when designing multimedia objects? (Lidwell)
 6. What do digital media makers need to know about designing a multimedia project? (Arola et. al.)
+
+NOTE: If you would like to use your Pecha Kucha topic for this assignment, feel free.
