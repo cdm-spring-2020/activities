@@ -76,41 +76,49 @@ The general purpose of these instructions is to allow students to complete all r
 	Brashear, Cailin	cab318@pitt.edu	cailinbrashear.github.io
 	
 	Xu, Robert	rox5@pitt.edu	RobertXu09.github.io
+	
 	---
 	
 	Lacava, Rocco	rsl17@pitt.edu	rocsbox.github.io
 	
 	Yang, Michelle	miy51@pitt.edu	MiYa24.github.io
+	
 	---
 	
 	Hlavaty, Kyle	kyh20@pitt.edu	kyh20.github.io
 	
 	Lee, Andrew (Gangsan)	gal55@pitt.edu	ALee55.github.io
+	
 	---
 	
 	Mohan, Arun	arm198@pitt.edu	amohan00.github.io
 	
 	Zhang, Kevin	kez27@pitt.edu	kez27.github.io
+	
 	---
 	
 	O'Donnell, Mary Rose	mro36@pitt.edu	mro36.github.io
 	
 	Olin, Tyler	tco8@pitt.edu	olintyler.github.io
+	
 	---
 	
 	Ford, Joshua	jdf71@pitt.edu	jdf71.github.io
 	
 	Ross, Brooke	brr72@pitt.edu	brookkeross.github.io
+	
 	---
 	
 	McLaughlin, Kaylee	kjm146@pitt.edu	kayleemclaughlin.github.io
 	
 	Wyatt, Chelsea	chw163@pitt.edu ChelseaJW99.github.io
+	
 	---
 	
 	Lacy, Megan	mnl32@pitt.edu	mnl32.github.io
 	
 	Nitti, Michael	mln48@pitt.edu	mlnitti.github.io
+	
 	---
 	
 	Due date: April 20
