@@ -37,9 +37,9 @@ The general purpose of these instructions is to allow students to complete all r
 
 	__Suggested due date__: April 6
 
-8. If you haven't yet delivered your Pecha Kucha, ... If you have already delivered your Pecha Kucha, skip to item 2
-	
-	I am asking you to record delivering your Pecha Kucha and share a video via Box. You can do this by making a screencast recording, or by recording a timed narration. The screencast option is relatively simple and can be done with Zoom (see https://blog.smu.edu/itconnect/2017/08/23/using-zoom-create-quick-easy-screen-recordings-free/) In powerpoint, there is a menu item to "record slide show." (More details at https://support.office.com/en-us/article/record-a-slide-show-with-narration-and-slide-timings-0b9502c6-5f6c-40ae-b1e7-e47d8741161c) In Google Slides, you have to record your audio separately, so the screencast option is probably best. 
+8. Turn in Pecha Kucha screencast/narration
+
+	(If you have already delivered your Pecha Kucha, skip to item 9.) If you haven't yet delivered your Pecha Kucha, I am asking you to record delivering your Pecha Kucha and share a video via Box. You can do this by making a screencast recording, or by recording a timed narration. The screencast option is relatively simple and can be done with Zoom (see https://blog.smu.edu/itconnect/2017/08/23/using-zoom-create-quick-easy-screen-recordings-free/) In powerpoint, there is a menu item to "record slide show." (More details at https://support.office.com/en-us/article/record-a-slide-show-with-narration-and-slide-timings-0b9502c6-5f6c-40ae-b1e7-e47d8741161c) In Google Slides, you have to record your audio separately, so the screencast option is probably best. 
 
 	__Suggested due date__: April 8
 
