@@ -1,4 +1,4 @@
-# Groupings for Zoom and permalinks for meeting
+# Groupings for Zoom and permalinks for meetings
 
 ## Group 1: https://pitt.zoom.us/j/515460123
 
