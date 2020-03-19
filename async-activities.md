@@ -55,7 +55,7 @@ The general purpose of these instructions is to allow students to complete all r
 
 	For this assignment, I have assigned partners for all students. By the due date, you will visit your partner's Github Pages site (links are listed below) and provide the 200-250-word responses to the prompts below. Email your responses to your partner and CC me so I know you have completed the assignment. 
 
-	Prompts:
+	__Prompts__:
 
 	I. Are all the required components present, such as menus/links, submenus, written reflections, and media samples from classwork assignments? 
 
@@ -69,17 +69,23 @@ The general purpose of these instructions is to allow students to complete all r
 
 	VI. What are the main differences between your Github pages site your partner’s? What are the strengths and weaknesses of each? 
  
-	Partners:
+	__Partners__:
 	
 	---
+	
 	Brashear, Cailin	cab318@pitt.edu	cailinbrashear.github.io
 	Xu, Robert	rox5@pitt.edu	RobertXu09.github.io
+	
 	---
+	
 	Lacava, Rocco	rsl17@pitt.edu	rocsbox.github.io
 	Yang, Michelle	miy51@pitt.edu	MiYa24.github.io
+	
 	---
+	
 	Hlavaty, Kyle	kyh20@pitt.edu	kyh20.github.io
 	Lee, Andrew (Gangsan)	gal55@pitt.edu	ALee55.github.io
+	
 	---
 	Mohan, Arun	arm198@pitt.edu	amohan00.github.io
 	Zhang, Kevin	kez27@pitt.edu	kez27.github.io
