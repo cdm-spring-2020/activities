@@ -1,5 +1,3 @@
-Link to install Zoom: https://support.zoom.us/hc/en-us/sections/200704559-Installation
-
 Groupings for Zoom and permalinks for meeting
 
 Group 1: https://pitt.zoom.us/j/515460123
@@ -28,3 +26,10 @@ O'Donnell, Mary Rose
 Xu, Robert
 
 NOTE: I will record Zoom meetings for my records. 
+
+Some reminders for using Zoom ...
+
+1. Install Zoom here: https://support.zoom.us/hc/en-us/sections/200704559-Installation
+2. Please test your webcam and microphone before our first class meeting.
+3. Have headphones nearby in case your microphone is sensitive enough to pick up sound from your speakers. This will create an echo effect or cause a feedback loop with a terrible screeching sound.
+4. In zoom, you can use the chat area to share links, ask questions without interrupting, etc. 
