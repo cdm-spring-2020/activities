@@ -72,7 +72,6 @@ The general purpose of these instructions is to allow students to complete all r
 	__Partners__:
 	
 	---
-	
 	Brashear, Cailin	cab318@pitt.edu	cailinbrashear.github.io
 	Xu, Robert	rox5@pitt.edu	RobertXu09.github.io
 	
@@ -80,7 +79,6 @@ The general purpose of these instructions is to allow students to complete all r
 	
 	Lacava, Rocco	rsl17@pitt.edu	rocsbox.github.io
 	Yang, Michelle	miy51@pitt.edu	MiYa24.github.io
-	
 	---
 	
 	Hlavaty, Kyle	kyh20@pitt.edu	kyh20.github.io
