@@ -2,6 +2,7 @@
 
 Please make a page on your github pages site for your checklist. Please use the following template:
 
+|---|---|---|---|---|
 | Assignment | Status | Date Started | Date Completed | Notes |
 |---|---|---|---|---|
 | Complete Work-in-Progress Submission 2 | done | 3/17/2020 | 3/18/2020 | Committed changes on Github and placed link Box folder|
