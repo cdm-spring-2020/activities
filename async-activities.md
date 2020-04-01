@@ -49,7 +49,7 @@ The general purpose of these instructions is to allow students to complete all r
 
 	__Suggested due date__: April 13
 
-10. Complete soundscape activity, parts 1 and 2 (requires audacity)
+10. Complete soundscape activity, parts 1 and 2 (requires audacity) https://github.com/cdm-spring-2020/activities/blob/master/soundscape.md
 
 	__Suggested due date__: April 15
 
