@@ -64,4 +64,4 @@ The general purpose of these instructions is to allow students to complete all r
 
 	See https://cdm-spring-2020.matthew-lavin.com/assignments/portfolio
 
-	__Due date__: By 11:59 p.m. on Thursday, April 30
+	__Due date__: By 11:59 p.m. on Friday, April 23
