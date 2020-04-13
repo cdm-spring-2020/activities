@@ -55,7 +55,7 @@ The general purpose of these instructions is to allow students to complete all r
 
 11. Complete peer review assignment
 
-	For this assignment, I have assigned partners for all students. By the due date, you will visit your partner's Github Pages site and provide the 200-250-word responses to the prompts linked below. Email your responses to your partner and CC me so I know you have completed the assignment. This link includes partner assignments, Github Pages links, email addresses, and the peer review prompts: https://github.com/cdm-spring-2020/activities/blob/master/peer-review.md
+	For this assignment, I have assigned partners for all students. By the due date, you will visit your partner's Github Pages site and provide the responses (1-2 sentences per numbered item) to the prompts linked below. Email your responses to your partner and CC me so I know you have completed the assignment. This link includes partner assignments, Github Pages links, email addresses, and the peer review prompts: https://github.com/cdm-spring-2020/activities/blob/master/peer-review.md
 	
 	__Due date__: April 20
 	
